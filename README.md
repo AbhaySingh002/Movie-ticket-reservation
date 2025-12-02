@@ -2,6 +2,11 @@
 
 A simple cinema ticket booking application built with Go and vanilla JavaScript.
 
+<p align="center">
+  <img src="assets/home.png" height="300" alt="Home Page" />
+  <img src="assets/seats.png" height="300" alt="Seat Selection" />
+</p>
+
 ## Features
 - **Movie Listing**: Browse available movies.
 - **Seat Selection**: Interactive seat map with real-time availability.
